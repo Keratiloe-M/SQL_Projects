@@ -1,6 +1,7 @@
 Maji Ndogo: From Analysis to Action PART 1
 
 Project Overview
+
 This project focuses on Maji Ngogo, a fictional country that is facing a pressing water crisis. Maji Ndogo is plagued 
 by water scarcity and water quality issues. We have collected a vast amount of data (over 60,000 records) through the hard 
 work of engineers, biologists, chemists, field surveyors, IT technicians, and analysts.
