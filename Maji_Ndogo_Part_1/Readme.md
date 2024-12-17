@@ -25,5 +25,7 @@ water_source: Information about different types of water sources.
 well_pollution: Pollution test results for wells.
 data_dictionary: Information on columns in each table, the description of each database, and the data type of each column
 
+The dataset is licensed by ExploreAI
+
 
 
