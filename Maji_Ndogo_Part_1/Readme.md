@@ -18,12 +18,19 @@ Data Overview
 The data collected is structured into several tables, each focusing on different aspects of the water survey:
 
 employee: Information about employees involved in data collection.
+
 global_water_access: Global water access statistics by country and region and year.
+
 location: Details about various water source locations within Maji Ndogo.
+
 visits: Records of visits to water sources.
+
 water_quality: Data on the quality of water sources.
+
 water_source: Information about different types of water sources.
+
 well_pollution: Pollution test results for wells.
+
 data_dictionary: Information on columns in each table, the description of each database, and the data type of each column
 
 The dataset is licensed by ExploreAI
