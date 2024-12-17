@@ -7,10 +7,13 @@ by water scarcity and water quality issues. We have collected a vast amount of d
 work of engineers, biologists, chemists, field surveyors, IT technicians, and analysts.
 
 This dataset contains crucial information about water sources, pollution levels, employee activities, projects undergoing
-on these water sources and more. Our task is to analyze this dataset, clean the dataset, uncover hidden patterns, and extract 
-insights that will guide actionable solutions to enhance water services in Maji Ndogo.
+on these water sources and more. Our task is to analyze this dataset, clean the dataset, uncover hidden patterns, and extract insights that will guide actionable solutions to enhance water services in Maji Ndogo.
 
-There are four parts of this project and in this part 1 we will focus on data cleaning, which includes addressing inconsistencies and errors within the dataset. Refer to the guide for step by step instructions.
+There are four parts of this project and in this part 1 we will focus on familiarising ourselves with the data and cleaning the data, which includes addressing inconsistencies and errors within the dataset. 
+
+Data Source
+
+I used the data from a MySQL database named md_water_services provided by Explore AI
 
 Data Overview
 
@@ -32,7 +35,6 @@ well_pollution: Pollution test results for wells.
 
 data_dictionary: Information on columns in each table, the description of each database, and the data type of each column
 
-The dataset is licensed by ExploreAI
 
 
 
